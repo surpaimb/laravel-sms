@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": "^7.3|^8.0",
-        "surpaimb/phpsms": "~1.8"
+        "surpaimb/phpsms": "^1.0"
     },
     "autoload": {
         "classmap": [
